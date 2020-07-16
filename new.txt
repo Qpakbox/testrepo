@@ -1,3 +1,4 @@
 ECHO bekapcsolva
 jim
 Mary
+bob 
